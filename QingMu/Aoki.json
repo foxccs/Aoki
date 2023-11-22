@@ -587,7 +587,7 @@
 
 {"key":"天下美食","name":"🅱天下┃美食","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩美食.json"},
 
-{"key":"戏曲杂苑","name":"🅱戏曲┃杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩戏曲.json"}
+{"key":"戏曲杂苑","name":"🅱戏曲┃杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩戏曲.json"},
 		
 {"key":"ext_live_protocol","name":"🎈青木整理：11月22号","type":3, "api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
   
