@@ -599,7 +599,9 @@
     },		
 //体育区				
 {"key":"py_cctv_企鹅","name":"🎳体育｜直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/lib/py_%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.py"},
-
+{"key": "csp_XYQHiker_虎牙直播","name": "🐯虎牙直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./lib/虎牙直播.json"},
+{"key": "csp_XYQHiker_斗鱼直播","name": "🐠斗鱼直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/斗鱼直播.json"},
+{"key": "csp_XYQBiu_网易CC直播","name": "🕸网易直播","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/json/网易CC直播.json"},
 //其他区
 {"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/小灯塔科学.json"},
 
