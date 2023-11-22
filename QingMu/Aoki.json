@@ -11,9 +11,63 @@
 	    }],
 
 	"sites":[
-{"key":"豆瓣","name":"公众号：Aoki分享","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/douban.js"},
+{"key":"豆瓣","name":"🐦公众号：Aoki分享","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/douban.js"},
 
-
+        {
+            "key": "csp_KungFu404",
+            "name": "💠┃阿里设置",
+            "type": 3,
+            "api": "csp_KungFu404",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "jar": "https://jihulab.com/foxccs/aoki/-/raw/main/jar/alibaba.jar",
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|fhd|auto"
+        },
+        {
+            "key": "直播转点播",
+            "name": "📺︎┃电视┃直播",
+            "type": 3,
+            "api": "./js/直播转点播2.js",
+            "ext": "./txt/直播.txt"
+        },
+        {
+            "key": "好趣网",
+            "name": "📺┃电视┃频道",
+            "type": 3,
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"
+        },
+        {
+            "key": "py_cctv",
+            "name": "💫CCTV┃综合",
+            "type": 3,
+            "api": "py_cctv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/py_cctv.py"
+        },
+        {
+            "key": "m1905",
+            "name": "💫CCTV┃电影",
+            "type": 3,
+            "api": "py_cctv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/m1905.py"
+        },
+        {
+            "key": "央视经典",
+            "name": "💫CCTV┃经典",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩经典.json"
+        },
 
 {"key":"ext_live_protocol","name":"青木整理：11月22号","type":3, "api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
   
