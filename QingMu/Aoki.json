@@ -68,7 +68,7 @@
             "filterable": 1,
             "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩经典.json"
         },
-        {"key":"cctv","name":"💫央视｜大全","type":3,"jar": "https://jihulab.com/foxccs/aoki/-/raw/main/jar/fan.jar", "api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"},
+        {"key":"cctv","name":"💫CCTV｜大全","type":3,"jar": "https://jihulab.com/foxccs/aoki/-/raw/main/jar/HCCX.jar", "api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"},
         {
             "key": "吾爱解说",
             "name": "📽️电影┃解说",
