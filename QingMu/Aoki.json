@@ -11,7 +11,7 @@
 	    }],
 
 	"sites":[
-{"key":"豆瓣","name":"公众号：Aoki","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
+{"key":"豆瓣","name":"公众号：Aoki分享","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
 
 
 
