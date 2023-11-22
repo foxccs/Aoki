@@ -68,6 +68,15 @@
             "filterable": 1,
             "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩经典.json"
         },
+        {
+            "key": "csp_Yj1211",
+            "name": "📽️┃在线直播",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	
 
 {"key":"ext_live_protocol","name":"青木整理：11月22号","type":3, "api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
   
@@ -75,11 +84,12 @@
 
 ],
 
+"parses":
+	[
+{"name": "轮询","type": 2,"url": "Sequence"},
+{"name": "聚合0","type":3,"url": "Demo"},
 
-"parses":[{"name": "轮询","type": 2,"url": "Sequence"},
-{"name":"聚合0","type":3,"url":"Demo"},
-
-{"name": "聚合1","type":3,"url":"Web"},
+{"name": "聚合1","type":3,"url": "Web"},
 {"name": "公众号","type": 0,"url": "https://vip.lianfaka.com/vip/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {"name": "Aoki分享","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 {"name": "精准1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
