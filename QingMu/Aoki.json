@@ -68,11 +68,20 @@
             "filterable": 1,
             "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩经典.json"
         },
-        {"key":"cctv","name":"📺央视｜大全","type":3,"jar": "https://jihulab.com/foxccs/aoki/-/blob/main/jar/HCCX.jar", "api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"},
-
+        {"key":"cctv","name":"💫央视｜大全","type":3,"jar": "https://jihulab.com/foxccs/aoki/-/raw/main/jar/HCCX.jar", "api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"},
+        {
+            "key": "吾爱解说",
+            "name": "📽️电影┃解说",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱解说.json"
+        },
         {
             "key": "csp_Yj1211",
-            "name": "💫在线┃直播",
+            "name": "📽️在线┃直播",
             "type": 3,
             "api": "csp_Yj1211",
             "searchable": 1,
