@@ -545,18 +545,36 @@
 {"key":"芒果","name":"🍁芒果┃官源","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E8%8A%92%E6%9E%9C.js"},
 {"key":"搜狗","name":"🍁搜狗┃官源","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://gitee.com/foxcccs/free/raw/master/see/%E6%90%9C%E7%8B%97.js"},	
 //云盘搜索
-{"key": "PanSearch","name": "🔍阿里┃网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt"},
+{"key": "PanSearch","name": "🔍阿里┃网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
 
-{"key": "PanSou","name": "🔍阿里┃盘搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt"},
+{"key": "PanSou","name": "🔍阿里┃盘搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
 
-{"key": "UpYun","name": "🔍阿里┃优盘搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt"},
+{"key": "UpYun","name": "🔍阿里┃优盘搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
 
-{"key": "YiSou","name": "🔍阿里┃易搜搜","type": 3,"api": "csp_YiSou","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt"},
+{"key": "YiSou","name": "🔍阿里┃易搜搜","type": 3,"api": "csp_YiSou","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
         
-{"key": "Zhaozy","name": "🔍阿里┃找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt"},
+{"key": "Zhaozy","name": "🔍阿里┃找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
 
-{"key": "Gitcafe","name": "🔍阿里┃小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt"},
+{"key": "Gitcafe","name": "🔍阿里┃小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
 
+//动漫区
+
+{"key":"mtv_xp_动漫巴士","name":"🐼动漫┃巴士","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./hccx/动漫巴士.json"},
+
+{"key":"mtv_xp_维奇动漫","name":"🐼维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./hccx/维奇动漫.json"},
+
+//体育区				
+{"key":"py_cctv_企鹅","name":"📺体育｜直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./hccx/py_企鹅体育.py"},
+
+//其他区
+{"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/小灯塔科学.json"},
+
+{"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/小灯塔地理.json"},
+
+{"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/小灯塔百科.json"},
+
+{"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/小灯塔国学.json"},
+		
 		
 {"key":"ext_live_protocol","name":"🎈青木整理：11月22号","type":3, "api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
   
