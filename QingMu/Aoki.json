@@ -318,7 +318,7 @@
 
    {"key":"爱迪影视","name":"🍂爱迪┃影视","type": 3,"api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
 
-   {"key":"csp_AppYsV2","name":"🍂69┃美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+   {"key":"csp_AppYsV2","name":"🍂六九┃美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
    {"key": "csp_XBPQ_aoaotv", "name": "🍂短剧┃嗷嗷", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html", "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24" } },	
 
