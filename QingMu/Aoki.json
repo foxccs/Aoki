@@ -559,12 +559,12 @@
 
 //动漫区
 
-{"key":"mtv_xp_动漫巴士","name":"🐼动漫┃巴士","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./hccx/动漫巴士.json"},
+{"key":"mtv_xp_动漫巴士","name":"🐼动漫┃巴士","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/foxcccs/free/blob/master/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"},
 
-{"key":"mtv_xp_维奇动漫","name":"🐼维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./hccx/维奇动漫.json"},
+{"key":"mtv_xp_维奇动漫","name":"🐼维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/foxcccs/free/blob/master/json/维奇动漫.json"},
 
 //体育区				
-{"key":"py_cctv_企鹅","name":"📺体育｜直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./hccx/py_企鹅体育.py"},
+{"key":"py_cctv_企鹅","name":"📺体育｜直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/lib/py_%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.py"},
 
 //其他区
 {"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/小灯塔科学.json"},
