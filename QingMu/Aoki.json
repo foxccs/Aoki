@@ -329,7 +329,6 @@
    {"key":"天天视频","name":"🍂天天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/"},
    {"key": "O先生","name": "🍂O先生┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
    {"key": "骑骑","name": "🍂骑骑┃秒播","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
-   {"key":"厂长","name":"🍂厂长┃秒播","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com"},
 
   {"key": "彩虹","name": "🍂彩虹┃影视","type": 3,"api": "csp_AppYsV2","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"},
   {"key":"影探4K","name":"🍂影探┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
