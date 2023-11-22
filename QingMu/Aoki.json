@@ -108,6 +108,26 @@
         "动漫"
       ]
     },
+    {
+      "key": "新片热播",
+      "name": "🐩新片┃荐影",
+      "type": 1,
+      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+      "filterable": 0,
+      "categories": [
+        "连续剧",
+        "动漫"
+      ]
+    },
+    {
+      "key": "csp_JianPian",
+      "name": "🕊️荐片┃秒播",
+      "type": 3,
+      "jar": "./jar/Aoki.jar;md5;c253e1930a210fa5141e5418f1f90949",
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+    },
 		
 {"key":"ext_live_protocol","name":"青木整理：11月22号","type":3, "api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
   
