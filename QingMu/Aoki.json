@@ -5,7 +5,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://jihulab.com/foxccs/aoki/-/txt/main/txt/live.txt",
+		    "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/%E9%9D%92%E6%9C%A8.txt",
 		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
 	    }],
