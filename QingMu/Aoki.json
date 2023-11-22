@@ -77,7 +77,38 @@
             "quickSearch": 1,
             "filterable": 1
         },	
+		
+{"key": "csp_玩偶哥哥","name":"👽玩偶┃网盘","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"},
 
+        {
+            "key": "玩偶内置",
+            "name": "👽玩偶┃哥哥",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"
+        },		
+	    {
+      "key": "姐姐",
+      "name": "👽玩偶┃姐姐",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://dytt996.com/api.php/app/"
+    },
+    {
+      "key": "小姨",
+      "name": "👽玩偶┃小姨",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+		
 {"key":"ext_live_protocol","name":"青木整理：11月22号","type":3, "api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
   
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
