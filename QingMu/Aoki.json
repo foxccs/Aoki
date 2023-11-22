@@ -28,8 +28,8 @@
             "key": "直播转点播",
             "name": "📺︎┃电视┃直播",
             "type": 3,
-            "api": "./js/直播转点播2.js",
-            "ext": "./txt/直播.txt"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/js/直播转点播2.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/直播.txt"
         },
         {
             "key": "好趣网",
