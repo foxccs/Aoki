@@ -129,7 +129,9 @@
       "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
     },
 //json区
-    {"key":"csp_Free","name":"✴️Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/Free%E5%BD%B1%E8%A7%86.json"},
+    {"key":"csp_Free","name":"🍃Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/Free%E5%BD%B1%E8%A7%86.json"},
+    {"key":"csp_非凡","name":"🍃非凡┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/非凡资源网.json"},
+    {"key":"csp_量子","name":"🍃量子┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/量子资源网.json"},
 		
 {"key":"ext_live_protocol","name":"青木整理：11月22号","type":3, "api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
   
