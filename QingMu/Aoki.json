@@ -584,8 +584,8 @@
 {"key":"csp_短剧","name":"🎧刷刷┃短剧","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/短剧网.json"},
 		
 {"key":"csp_短视频","name":"☘️短视频┃快手","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/duanshipin.json"},
-  
-
+{"key": "js_酷狗MV","name": "🎻酷狗┃MV","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/js/kugouMV.js"},
+{"key":"csp_xpath_kuqimv","name":"🎤酷奇┃MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/foxcccs/free/raw/master/json/kuqimv.json"},		
 {"key":"哔哩音乐","name":"🎧哔哩┃音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩音乐.json"},
 {"key":"演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/%E6%BC%94%E5%94%B1%E4%BC%9A.txt"},
 {"key": "py_yanchh","name": "🅱️歌手┃合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/geshou.py"},
@@ -594,10 +594,10 @@
 {"key": "py_Yinl2","name": "🅱️音悦┃合集","type": 3,"api": "py_Yinl2","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/yinyue.py"},
 {"key": "DJ呦呦音乐网","name":"🎧DJ呦呦┃音乐","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/DJyyyyw.json"},
 { "key": "MV_vod", "name": "🎸明星┃MV", "type": 1, "api": "https://mv.wogg.link/mv/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key":"csp_xpath_kuqimv","name":"🎤酷奇┃MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/foxcccs/free/raw/master/json/kuqimv.json"},
-  
 {"key": "py_Meinvw","name": "🅱️美女┃舞蹈","type": 3,"api": "py_Meinvw","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/meinv.py"},		
-   
+{"key": "js_a8音乐","name": "🎸A8┃音乐","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/js/a8yy.js"},
+  
+{"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/foxcccs/free/blob/master/json/Bili.json"},   
 {
       "key": "广播迷",
       "name": "📻调频┃广播",
@@ -612,11 +612,13 @@
       }
     },		
 //体育区	
-{"key":"csp_XPath_企鹅体育","name":"🐧企鹅体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/foxccs/Aoki/main/QingMu/lib/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.json"},		
-{"key":"py_cctv_企鹅","name":"🎳体育｜直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/lib/py_%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.py"},
-{"key": "csp_XYQHiker_虎牙直播","name": "🐯虎牙直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/Aoki/main/QingMu/lib/虎牙直播.json"},
-{"key": "csp_XYQHiker_斗鱼直播","name": "🐠斗鱼直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/Aoki/main/QingMu/lib/斗鱼直播.json"},
-{"key": "csp_XYQBiu_网易CC直播","name": "🕸网易直播","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/json/网易CC直播.json"},
+{"key":"csp_XPath_企鹅体育","name":"🎳企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/foxccs/Aoki/main/QingMu/lib/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.json"},		
+{"key":"py_cctv_企鹅","name":"🎳体育┃直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/lib/py_%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.py"},
+{"key": "py_TYjs","name": "🎳体育┃健身","type": 3,"api": "py_TYjs","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/tiyu.py"},
+{"key": "py_FBqx","name": "🎳球队┃球星","type": 3,"api": "py_FBqx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/qiudui.py"},  
+{"key": "csp_XYQHiker_虎牙直播","name": "🐯虎牙┃直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/Aoki/main/QingMu/lib/虎牙直播.json"},
+{"key": "csp_XYQHiker_斗鱼直播","name": "🐠斗鱼┃直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/Aoki/main/QingMu/lib/斗鱼直播.json"},
+{"key": "csp_XYQBiu_网易CC直播","name": "🕸网易┃直播","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/json/网易CC直播.json"},
 //其他区
 {"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/小灯塔科学.json"},
 
@@ -625,7 +627,11 @@
 {"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/小灯塔百科.json"},
 
 {"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/小灯塔国学.json"},
-		
+
+{"key": "py_zyy","name": "🅱️中医┃药区","type": 3,"api": "py_zyy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/zyy.py"},
+
+{"key": "py_youer","name": "🅱️幼儿┃教育","type": 3,"api": "py_youer","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/youer.py"},
+  	
 {"key":"幼儿教育","name":"🅱幼小┃衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩幼小.json"},
 
 {"key":"哔哩小学","name":"🅱小学┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩小学.json"},
@@ -633,7 +639,11 @@
 {"key":"哔哩初中","name":"🅱初中┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩初中.json"},
 
 {"key":"哔哩高中","name":"🅱高中┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩高中.json"},
-
+		
+{"key":"学习园地","name":"🅱学习┃园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/Blixt.json"},
+		
+{"key":"学外语","name":"🅱学习┃外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/waiyu.json"},
+		
 {"key":"兴趣健身","name":"🅱兴趣┃健身","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩健身.json"},
 
 {"key":"相声小品","name":"🅱相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩相声.json"},
