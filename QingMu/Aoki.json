@@ -208,6 +208,7 @@
         "动漫"
       ]
     },
+    {"key":"sohu","name":"🍂搜狐┃影视","type":1,"api":"https://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:超级7"},
     {
       "key": "搜狐资源",
       "name": "️🍂搜狐┃资源",
@@ -537,7 +538,12 @@
         "欧美综艺"
       ]
     },
-	
+//js区
+{"key":"爱奇异","name":"🍁爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
+{"key":"优酷","name":"🍁优酷(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
+{"key":"腾讯","name":"🍁腾讯(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
+{"key":"芒果","name":"🍁芒果(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
+{"key":"搜狗","name":"🍁搜狗(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},	
 		
 {"key":"ext_live_protocol","name":"青木整理：11月22号","type":3, "api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
   
