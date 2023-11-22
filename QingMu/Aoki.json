@@ -597,7 +597,7 @@
 {"key": "py_Meinvw","name": "🅱️美女┃舞蹈","type": 3,"api": "py_Meinvw","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/meinv.py"},		
 {"key": "js_a8音乐","name": "🎸A8┃音乐","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/js/a8yy.js"},
   
-{"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/foxcccs/free/blob/master/json/Bili.json"},   
+{"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/foxccs/Aoki/main/QingMu/lib/Bili.json"},   
 {
       "key": "广播迷",
       "name": "📻调频┃广播",
