@@ -539,11 +539,11 @@
       ]
     },
 //js区
-{"key":"爱奇异","name":"🍁爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
-{"key":"优酷","name":"🍁优酷(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
-{"key":"腾讯","name":"🍁腾讯(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
-{"key":"芒果","name":"🍁芒果(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
-{"key":"搜狗","name":"🍁搜狗(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},	
+{"key":"爱奇异","name":"🍁爱奇艺(官)","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"},
+{"key":"优酷","name":"🍁优酷(官)","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E4%BC%98%E9%85%B7.js"},
+{"key":"腾讯","name":"🍁腾讯(官)","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E8%85%BE%E8%AE%AF.js"},
+{"key":"芒果","name":"🍁芒果(官)","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E8%8A%92%E6%9E%9C.js"},
+{"key":"搜狗","name":"🍁搜狗(官)","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://gitee.com/foxcccs/free/raw/master/see/%E6%90%9C%E7%8B%97.js"},	
 		
 {"key":"ext_live_protocol","name":"青木整理：11月22号","type":3, "api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
   
