@@ -556,13 +556,6 @@
         "欧美综艺"
       ]
     },
-//js区
-{"key":"爱奇异","name":"🍁爱奇艺┃官源","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"},
-{"key":"优酷","name":"🍁优酷┃官源","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E4%BC%98%E9%85%B7.js"},
-{"key":"腾讯","name":"🍁腾讯┃官源","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E8%85%BE%E8%AE%AF.js"},
-{"key":"芒果","name":"🍁芒果┃官源","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E8%8A%92%E6%9E%9C.js"},
-{"key":"搜狗","name":"🍁搜狗┃官源","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://gitee.com/foxcccs/free/raw/master/see/%E6%90%9C%E7%8B%97.js"},
-{"key": "畅梦","name":"🍁畅梦┃影视","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/js/%E7%95%85%E6%A2%A6%E5%BD%B1%E8%A7%86.js"},
 		
 //云盘搜索
 {"key": "PanSearch","name": "🔍阿里┃网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
@@ -591,7 +584,7 @@
 {"key": "js_酷狗MV","name": "🎻酷狗┃MV","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/js/kugouMV.js"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇┃MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/foxcccs/free/raw/master/json/kuqimv.json"},		
 {"key":"哔哩音乐","name":"🎧哔哩┃音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/哔哩音乐.json"},
-{"key":"演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/%E6%BC%94%E5%94%B1%E4%BC%9A.txt"},
+{"key":"演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/txt/%E6%BC%94%E5%94%B1%E4%BC%9A.txt"},
 {"key": "DJ呦呦音乐网","name":"🎧呦呦┃音乐","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/DJyyyyw.json"},
 { "key": "MV_vod", "name": "🎸明星┃MV", "type": 1, "api": "https://mv.wogg.link/mv/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "py_yanchh","name": "🅱️歌手┃合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/geshou.py"},
