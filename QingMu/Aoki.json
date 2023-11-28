@@ -13,17 +13,17 @@
 	"sites":[
 {"key":"豆瓣","name":"🐦公众号：Aoki分享","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/douban.js"},
 
-        {
-            "key": "csp_KungFu404",
-            "name": "💠┃阿里设置",
-            "type": 3,
-            "api": "csp_KungFu404",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "jar": "https://jihulab.com/foxccs/aoki/-/raw/main/jar/alibaba.jar",
-            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|fhd|auto"
-        },
+    {
+      "key": "新片热播",
+      "name": "🐩新片┃荐影",
+      "type": 1,
+      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+      "filterable": 0,
+      "categories": [
+        "连续剧",
+        "动漫"
+      ]
+    },
         {
             "key": "直播转点播",
             "name": "📺︎┃电视┃直播",
@@ -89,55 +89,23 @@
             "filterable": 1
         },	
 		
-{"key": "csp_玩偶哥哥","name":"👽玩偶┃网盘","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"},
-
+{
+      "key": "csp_ttkx",
+      "name": "👽玩偶┃网盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":{"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+      "filter": "https://pan.shangui.cc/f/pj4aTL/wogg.json"},
+      "jar": "https://pan.shangui.cc/f/NaElij/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
+    },	
         {
             "key": "玩偶内置",
             "name": "👽玩偶┃哥哥",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"
         },		
-	    {
-      "key": "姐姐",
-      "name": "👽玩偶┃姐姐",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://dytt996.com/api.php/app/"
-    },
-    {
-      "key": "小姨",
-      "name": "👽玩偶┃妹妹",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "新片热播",
-      "name": "🐩新片┃荐影",
-      "type": 1,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "filterable": 0,
-      "categories": [
-        "连续剧",
-        "动漫"
-      ]
-    },
-    {
-      "key": "csp_JianPian",
-      "name": "🕊️荐片┃秒播",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
-    },
 //json区
     {"key":"csp_Free","name":"🍃Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/Free%E5%BD%B1%E8%A7%86.json"},
     {"key":"csp_非凡","name":"🍃非凡┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/json/非凡资源网.json"},
@@ -558,17 +526,17 @@
     },
 		
 //云盘搜索
-{"key": "PanSearch","name": "🔍阿里┃网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
+{"key": "PanSearch","name": "🔍阿里┃网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
 
-{"key": "PanSou","name": "🔍阿里┃盘搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
+{"key": "PanSou","name": "🔍阿里┃盘搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
 
-{"key": "UpYun","name": "🔍阿里┃优盘搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
+{"key": "UpYun","name": "🔍阿里┃优盘搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
 
-{"key": "YiSou","name": "🔍阿里┃易搜搜","type": 3,"api": "csp_YiSou","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
+{"key": "YiSou","name": "🔍阿里┃易搜搜","type": 3,"api": "csp_YiSou","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
         
-{"key": "Zhaozy","name": "🔍阿里┃找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
+{"key": "Zhaozy","name": "🔍阿里┃找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
 
-{"key": "Gitcafe","name": "🔍阿里┃小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"},
+{"key": "Gitcafe","name": "🔍阿里┃小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
 
 //动漫区
 
@@ -595,20 +563,6 @@
 {"key": "py_Meinvw","name": "🅱️美女┃舞蹈","type": 3,"api": "py_Meinvw","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/lib/meinv.py"},	
 {"key":"哔哩哔哩","name":"🅱️哔哩┃大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/foxccs/Aoki/main/QingMu/lib/Bili.json"}, 
 
-  
-{
-      "key": "广播迷",
-      "name": "📻调频┃广播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
-        "编码": "GBK",
-        "播放数组": "ax-grid ax-split-2 ax-space-md&&</ul>",
-        "线路数组": "ax-btn*ax-padding ax-xl\">&&/a>[不包含:介绍]",
-        "分类url": "http://www.guangbomi.com/tv/{cateId}/{catePg}.html[http://www.guangbomi.com/tv/{cateId}/index.html"
-      }
-    },		
 //体育区	
 {"key":"csp_XPath_企鹅体育","name":"🎳企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/foxccs/Aoki/main/QingMu/lib/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.json"},		
 {"key":"py_cctv_企鹅","name":"🎳体育┃直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/lib/py_%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.py"},
